@@ -1,4 +1,4 @@
 # rldcuevas.github.io
 Portfolio Site
 
-My personal portfolio site.
+This is where my experiments/self-made projects/practice codes go.
